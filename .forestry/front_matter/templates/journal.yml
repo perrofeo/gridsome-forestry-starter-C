@@ -36,6 +36,16 @@ fields:
     - Jaqueline Bica
   label: Author
   default: Nichlas W. Andersen
+- name: date_2
+  type: datetime
+  label: Date 2
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 pages:
 - journal/macos-development-environment.md
 - journal/siiiiiiiiiiiiiiiiiiiiiiii.md
