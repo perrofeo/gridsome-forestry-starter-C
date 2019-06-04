@@ -41,10 +41,11 @@ fields:
   label: Date 2
   description: ''
   config:
-    required: false
-    date_format: 
+    required: true
+    date_format: D. MMMM YYYY
     time_format: 
     display_utc: false
+    export_format: D. MMMM YYYY
   default: now
 pages:
 - journal/macos-development-environment.md
