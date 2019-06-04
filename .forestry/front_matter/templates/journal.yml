@@ -33,6 +33,7 @@ fields:
     required: true
     options:
     - Nichlas W. Andersen
+    - Jaqueline Bica
   label: Author
   default: Nichlas W. Andersen
 pages:
