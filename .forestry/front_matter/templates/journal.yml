@@ -19,7 +19,7 @@ fields:
   config:
     required: true
     display_utc: true
-    date_format: D. MMMM YYYY
+    date_format: MM/DD/YYYY
     time_format: ''
     export_format: MM/DD/YYYY
   default: now
