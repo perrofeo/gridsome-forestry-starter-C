@@ -33,7 +33,7 @@ query JournalPost ($path: String!) {
   post: journalPost (path: $path) {
     title
     author
-    date (format: "MM/DD/YYYY")
+    date (format: "MM-YYYY")
     timeToRead
     content
   }
