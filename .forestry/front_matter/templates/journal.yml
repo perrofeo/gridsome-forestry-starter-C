@@ -21,7 +21,7 @@ fields:
     display_utc: false
     date_format: D. MMMM YYYY
     time_format: ''
-    export_format: D. MMMM YYYY
+    export_format: MM/DD/YYYY
   default: now
 - type: select
   name: author
