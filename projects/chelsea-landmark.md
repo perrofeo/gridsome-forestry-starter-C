@@ -6,7 +6,6 @@ category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 categories:
 - woodcut
-- 'printmaking '
 - letterpress
 - artist's book
 - inmigration
