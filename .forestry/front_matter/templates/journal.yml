@@ -38,10 +38,10 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
-- journal/macos-development-environment.md
-- journal/orain-bai.md
-- journal/siiiiiiiiiiiiiiiiiiiiiiii.md
-- journal/yyyyyyyyyyyyyy.md
-- journal/teeeeeeeeeee.md
-- journal/uuuuuuuuuuuuu.md
 - journal/decimoooooooooooo.md
+- journal/orain-bai.md
+- journal/uuuuuuuuuuuuu.md
+- journal/teeeeeeeeeee.md
+- journal/yyyyyyyyyyyyyy.md
+- journal/siiiiiiiiiiiiiiiiiiiiiiii.md
+- journal/macos-development-environment.md
