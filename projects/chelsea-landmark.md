@@ -5,8 +5,13 @@ title: HOME IS WHERE I AM
 category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 categories:
-- photography
-- pink
+- woodcut
+- 'printmaking '
+- letterpress
+- artist's book
+- inmigration
+- " refugees"
+- documental poetry
 project_bg_color: ''
 project_fg_color: ''
 
