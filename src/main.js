@@ -10,6 +10,6 @@ export default function(Vue, { head }) {
   };
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Josefin+Sans:300i,400,700&display=swap'
+    href: 'https://fonts.googleapis.com/css?family=Josefin+Sans:300,300i,400,700&display=swap'
   });
 }
