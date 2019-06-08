@@ -38,5 +38,4 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
-- journal/orain-bai.md
 - journal/macos-development-environment.md
