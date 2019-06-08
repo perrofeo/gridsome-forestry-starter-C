@@ -37,5 +37,3 @@ fields:
     - Jaqueline Bica
   label: Author
   default: Nichlas W. Andersen
-pages:
-- journal/macos-development-environment.md
