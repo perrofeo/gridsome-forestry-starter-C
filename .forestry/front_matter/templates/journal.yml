@@ -33,7 +33,6 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
     - Jaqueline Bica
   label: Author
-  default: Nichlas W. Andersen
+  default: Jaqueline Bica
