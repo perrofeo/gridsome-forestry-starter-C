@@ -12,7 +12,7 @@
             </div>
             <div class="journal-date">
               <span class="label">Date</span>
-              <div v-text="$page.post.date"/>
+              <div v-html="$page.post.date"/>
             </div>
             <div class="journal-time">
               <span class="label">Time</span>
@@ -33,7 +33,7 @@ query JournalPost ($path: String!) {
   post: journalPost (path: $path) {
     title
     author
-    date (format: "MM-YYYY")
+    date (format: "D. MMMM YYYY")
     timeToRead
     content
   }
