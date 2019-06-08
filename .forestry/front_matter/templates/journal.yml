@@ -23,7 +23,7 @@ fields:
     time_format: ''
     export_format: MM-YYYY
   default: now
-  hidden: true
+  hidden: false
 - type: select
   name: author
   config:
