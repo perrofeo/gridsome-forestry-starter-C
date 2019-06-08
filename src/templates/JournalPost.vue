@@ -12,7 +12,7 @@
             </div>
             <div class="journal-date">
               <span class="label">Date</span>
-              <div>{{ $page.post.date }}</div>
+              <div v-html="$page.post.date"/>
             </div>
             <div class="journal-time">
               <span class="label">Time</span>
