@@ -1,6 +1,6 @@
 ---
 date: 10-2018
-title: Stories about artist's residence in Germany
+title: Stories about artist's residence
 author: Jaqueline Bica
 excerpt: How much I learned from interviewing refugees in Germany
 
